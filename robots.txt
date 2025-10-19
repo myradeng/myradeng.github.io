@@ -1,0 +1,6 @@
+# Robots.txt for myradeng.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://myradeng.com/sitemap.xml
